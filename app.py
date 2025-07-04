@@ -10,7 +10,7 @@ import os
 # import soundfile as sf
 import tempfile
 from dotenv import load_dotenv
-# import fitz  # PyMuPDF
+import fitz  # PyMuPDF
 import uuid
 
 load_dotenv()
